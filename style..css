@@ -1,0 +1,36 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    font-size: 48px;
+    width: 100%;
+    margin: 0px;
+    font-family: Bernard MT Condensed;
+}
+
+#start, #number_of_objects, #status {
+    font-size: 18px;
+    font-family: Palatino Linotype;
+}
+
+#start {
+    font-size: 23px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: right;
+}
+
+canvas {
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 6px 6px 5px lightgrey;
+}

@@ -1,0 +1,90 @@
+body {
+    background-size: cover;
+}
+
+.heading {
+    width: 100%;
+    font-size: 50px;
+    font-family: Matura MT Script Capitals;
+    margin: 0px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: gainsboro;
+    bottom: 0;
+    width: 100%;
+    background-color: darkgrey;
+    line-height: 3;
+    text-align: right;
+}
+
+.webpages {
+    width: 25%;
+    height: 300px;
+    float: right;
+    border-radius: 15px;
+    background: lightblue;
+    margin-right: 10px;
+    margin-top: 75px;
+}
+
+.webpages h2 {
+    margin: 0px;
+    font-size: 32px;
+    font-family: Bernard MT Condensed;
+    background: rgb(126, 216, 213);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.webpages img {
+    height: 220px;
+}
+
+.app {
+    width: 25%;
+    height: 300px;
+    border-radius: 15px;
+    background: rgb(53, 53, 255);
+    margin-top: 75px;
+}
+
+
+.app h2 {
+    margin: 0px;
+    font-size: 32px;
+    font-family: Bernard MT Condensed;
+    color: white;
+    background: mediumblue;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.app img {
+    height: 220px;
+}
+
+.chatbot {
+    width: 25%;
+    height: 260px;
+    float: left;
+    border-radius: 15px;
+    background: rgb(53, 53, 255);
+    margin-left: 10px;
+}
+
+
+.chatbot h2 {
+    margin: 0px;
+    font-size: 32px;
+    font-family: Bernard MT Condensed;
+    color: white;
+    background: mediumblue;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.chatbot img {
+    height: 180px;
+}
